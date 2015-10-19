@@ -1,0 +1,14 @@
+{
+  "name": "Headquaters",
+  "version": "1.0.0",
+  "description": "A small script that will turn lights on and off with ZWave, based on the current sunset time.",
+  "main": "server.js",
+  "scripts": {},
+  "author": "Andreas Jönsson",
+  "license": "WTFPL",
+  "dependencies": {
+    "node-schedule": "^0.2.9",
+    "request": "^2.65.0",
+    "suncalc": "~1.6.0"
+  }
+}
