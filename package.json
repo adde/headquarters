@@ -1,5 +1,5 @@
 {
-  "name": "Headquaters",
+  "name": "Headquarters",
   "version": "1.0.0",
   "description": "A small script that will turn lights on and off with ZWave, based on the current sunset time.",
   "main": "server.js",
