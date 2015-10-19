@@ -1,4 +1,4 @@
-Headquaters
+Headquarters
 ===============================
 A small node.js script that will turn lights on and off with ZWave, based on the current sunset time.
 
